@@ -1,0 +1,25 @@
+{
+  "name": "web3-infura",
+  "version": "1.0.0",
+  "description": "A dapp frontend with React and Network.js that can connect and request data from the Ethereum mainnet using Infura and MetaMask.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Infura",
+    "Web3",
+    "NetworkJs",
+    "OpenZeppelin",
+    "Metamask",
+    "React"
+  ],
+  "author": "Balaji Shetty Pachai <balaji.pachai08@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "@openzeppelin/network": "^0.4.2",
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "dotenv": "^16.0.1"
+  }
+}

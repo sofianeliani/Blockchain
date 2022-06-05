@@ -1,0 +1,37 @@
+Starting migrations...
+======================
+> Network name:    'ropsten'
+> Network id:      3
+> Block gas limit: 8000000 (0x7a1200)
+
+
+1_nft.js
+========
+
+   Replacing 'NFT'
+   ---------------
+   > transaction hash:    0xae02aacd59e745b530dab44699bcd48657809d7bcc21fb37e6dc2dc233731ff5      
+   > Blocks: 1            Seconds: 76
+   > contract address:    0x87d0F96425F2fAf71aBd547aEEbe5b49eD2b619f
+   > block number:        12331335
+   > block timestamp:     1654427224
+   > account:             0x1d22D1D6fd5724B0c3752f34718B1C3EC9C721e8
+   > balance:             32.051769105519278292
+   > gas used:            539100 (0x839dc)
+   > gas price:           2.500000013 gwei
+   > value sent:          0 ETH
+   > total cost:          0.0013477500070083 ETH
+
+   Pausing for 2 confirmations...
+
+   -------------------------------
+   > confirmation number: 1 (block: 12331336)
+   > confirmation number: 2 (block: 12331337)
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.0013477500070083 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.0013477500070083 ETH
