@@ -1,6 +1,5 @@
 import React, {useState, useEffect} from 'react';
 import Web3 from "web3";
-import Web3Data from './components/Web3Data';
 // import { NFTStorage } from "./abi/abi";
 import NFTStorage from "./abi/nft.json";
 
